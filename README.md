@@ -1,7 +1,7 @@
 Запускаем проект на своей машине (все команды применимы к MacOS, Linux "Ubuntu") 
 
 Клонируем репозиторий:
-git clone 
+git clone https://github.com/Nurgazy22/modul_1.git
 
 Переходим в папку с проектом:
 cd Parsing
