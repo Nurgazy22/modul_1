@@ -1,6 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
 from write_to_db import write_to_db
+import csv
+                                
+# with open('file.csv', 'w') as file: #  можно быстро посмотреть что парситься в файле file.csv 
+#     """ открывает файл file.csv и 
+#     записывает туда заголовки столбцов"""
+#     writer = csv.writer(file, delimiter=',')
+#     writer.writerow(['image', 'date', 'price', 'currency'])
+
+
+# def write_to_csv(data):  #  открывает файл file.csv и записывает туда спарсенные даннные
+#     with open('file.csv', 'a') as file:
+#         writer = csv.writer(file)
+#         writer.writerow([data['image'], data['date'], data['price'], data['currency']])
 
 
 def get_html(url):  # возращает html код стр в виде строки
@@ -8,7 +21,7 @@ def get_html(url):  # возращает html код стр в виде стро
     return response.text
 
 
-def get_total_pages(html):   # возращает общее кол-во страниц 
+def get_total_pages(html):   # возвращает общее кол-во страниц 
     soup = BeautifulSoup(html, 'lxml')
     page_list = soup.find('div', class_='pagination').find_all('a')
     last_page = page_list[-3].text
@@ -17,8 +30,8 @@ def get_total_pages(html):   # возращает общее кол-во стр�
 
 def get_data(html):   # вытаскивает нужные данные из стр и записывает в бд
     soup = BeautifulSoup(html, "lxml")
-    houses = soup.find_all("div", class_="search-item")
-    
+    houses = soup.find_all('div', class_='search-item')
+    print(houses)
     for house in houses:
         try:
             image = house.find('div', class_='image').find('img').get('data-src')
@@ -31,16 +44,24 @@ def get_data(html):   # вытаскивает нужные данные из с
             date='NULL'
         
         try:
-            price = house.find("div", class_="price").text.split()[0]
+            price = house.find("div", class_="price").text.split()[0][1:]
         except:
             price = 'NULL'
-        
+
+        try:
+            currency = house.find('div', class_='price').text.split()[0][0]
+        except:
+            currency = 'NULL'
+
         data = {'image':image, 
                 'date':date,
-                'price':price
+                'price':price,
+                'currency': currency
             }
         
         write_to_db(data)
+        # write_to_csv(data)
+
 
 
 def main():  # вызывает нужные функции

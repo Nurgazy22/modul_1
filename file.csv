@@ -1,1 +1,46 @@
-image,date,price
+image,date,price,currency
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/02/024de9dd-a4ae-4ec3-95d6-6fc2fd41b769?rule=kijijica-200-jpg,< 8 hours ago,lease,P
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/b9/b97aefef-2e0b-4116-9a19-57a4014c2937?rule=kijijica-200-jpg,Yesterday,"2,079.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/2c/2c55dd6d-f609-4dcc-8d1e-081f4939434e?rule=kijijica-200-jpg,Yesterday,"2,675.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/6d/6d8ca2dd-fa45-43e2-9032-133e6a57ee0b?rule=kijijica-200-jpg,25/02/2023,"2,195.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/00/00d82cfe-b6e5-4fc2-9be0-426dbd0bd441?rule=kijijica-200-jpg,< 2 hours ago,"2,500.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/9f/9fb1388c-3881-46fb-b961-f9787dffd34c?rule=kijijica-200-jpg,< 7 minutes ago,"2,600.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/21/21efe714-a5b8-4436-8b2e-c977b6288ea6?rule=kijijica-200-jpg,< 11 minutes ago,"2,400.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/8c/8c3790ea-4ab5-465c-88c4-593102d922d7?rule=kijijica-200-jpg,< 16 minutes ago,"3,900.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/52/529f34f9-3425-488b-8190-d8292cd4b2a1?rule=kijijica-200-jpg,< 17 minutes ago,"2,200.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/1a/1a7cde42-2034-4a27-afb7-6962f935d0e6?rule=kijijica-200-jpg,< 20 minutes ago,"2,900.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/cd/cd59c0b3-eee2-401b-b9cc-910162155b09?rule=kijijica-200-jpg,< 20 minutes ago,"2,450.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/5b/5b9ac231-7b46-4c69-b71e-192e2de29310?rule=kijijica-200-jpg,< 22 minutes ago,"2,000.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/08/08d7f8f3-e9ae-4859-9137-a260a44fd384?rule=kijijica-200-jpg,< 31 minutes ago,750.00,$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/7b/7b9942f1-d206-4cd2-8035-05eeaa199ec3?rule=kijijica-200-jpg,< 32 minutes ago,"2,150.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/68/68015b9c-7ad4-4e57-a033-8add20ec55da?rule=kijijica-200-jpg,< 35 minutes ago,"1,200.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/80/80b990a0-f7aa-4254-96b1-e2090abadbd8?rule=kijijica-200-jpg,< 40 minutes ago,"1,850.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/11/115e8a83-f55a-48ba-9203-d7b1fd965f75?rule=kijijica-200-jpg,< 41 minutes ago,"2,695.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/df/df05cff4-1025-4638-97df-f889892f04a9?rule=kijijica-200-jpg,< 41 minutes ago,"4,064.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/fc/fc4dc710-f865-49da-b2c1-d5e62c35f3dc?rule=kijijica-200-jpg,< 43 minutes ago,"1,880.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/f2/f259157b-21b8-40ac-9fb9-83ac82b13989?rule=kijijica-200-jpg,< 45 minutes ago,"2,900.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/47/4769a408-896e-4ef5-9649-3bfdc1f4fe5e?rule=kijijica-200-jpg,< 46 minutes ago,"2,500.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/3c/3c172892-83dc-4ec7-b61c-f0c702e27fe0?rule=kijijica-200-jpg,< 52 minutes ago,"2,400.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/f9/f9abe7a0-c195-4e70-ad68-d113c781f587?rule=kijijica-200-jpg,< 53 minutes ago,"2,625.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/bf/bfbebfc1-a85a-4fa3-8593-6a1c6fa17adb?rule=kijijica-200-jpg,< 55 minutes ago,"2,200.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/da/da540d2c-f34d-418f-844e-2b1addb9cfe4?rule=kijijica-200-jpg,< 56 minutes ago,"2,207.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/11/11645a38-1142-43ef-8809-702e123a3adf?rule=kijijica-200-jpg,< 2 hours ago,"2,875.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/10/10ca6aa4-4ec3-44b4-b5e1-8babb6ca79ae?rule=kijijica-200-jpg,< 2 hours ago,"2,300.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/3b/3b1b2c70-ed7d-4343-b752-bd59df6d80d9?rule=kijijica-200-jpg,< 2 hours ago,730.00,$
+,< 2 hours ago,"5,999.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/4e/4eab5a92-ed7d-42ae-9cba-85af1109f81a?rule=kijijica-200-jpg,< 2 hours ago,"2,990.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/ed/ed213a9c-f346-4a34-bd59-08ba23f5f490?rule=kijijica-200-jpg,< 2 hours ago,lease,P
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/71/71491615-1d49-40cf-93dd-babdddbc38e6?rule=kijijica-200-jpg,< 2 hours ago,"3,195.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/12/123d7ed5-3f89-40e9-9d6c-f8ef9315babd?rule=kijijica-200-jpg,< 2 hours ago,"2,500.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/3d/3d8ec53b-7fbd-4f6b-b72b-e941e4838f71?rule=kijijica-200-jpg,< 2 hours ago,"2,900.00",$
+https://media.kijiji.ca/api/v1/ca-prod-fsbo-ads/images/f6/f61a6c7e-c7d3-4fe6-a389-6290c7cb56ec?rule=kijijica-200-jpg,< 2 hours ago,"2,500.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/e6/e63cef3d-1f8b-44ec-9475-99fe114ff486?rule=kijijica-200-jpg,< 2 hours ago,"2,799.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/f5/f5dd4690-826c-4f65-bba0-ea782f357cfd?rule=kijijica-200-jpg,< 2 hours ago,"1,662.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/be/be4ddfaf-d20f-448e-8489-2596c063e49a?rule=kijijica-200-jpg,< 2 hours ago,"1,609.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/83/836dc9c6-3d2b-4914-bdcd-515eaaa1554d?rule=kijijica-200-jpg,< 2 hours ago,"2,249.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/21/21a048db-b5dd-40bb-b480-34af0b5c6d5b?rule=kijijica-200-jpg,< 2 hours ago,"2,345.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/77/773b3c01-224e-424c-99fb-8ce03e333e9c?rule=kijijica-200-jpg,< 2 hours ago,"1,899.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/20/2046cc9b-1711-467a-b4df-03cac6032cd1?rule=kijijica-200-jpg,< 2 hours ago,"2,881.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/73/73c6c1e5-99eb-4e48-a84b-cc6a91322a2a?rule=kijijica-200-jpg,< 2 hours ago,"2,033.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/98/98081b74-38a0-4720-9298-3881602a30a2?rule=kijijica-200-jpg,< 2 hours ago,"2,029.00",$
+https://media.kijiji.ca/api/v1/ca-prod-dealer-ads/images/ad/ad9f33e4-9112-42af-8ccf-4357c2fc3bf8?rule=kijijica-200-jpg,< 2 hours ago,"2,535.00",$

@@ -7,6 +7,7 @@ class House(Model): # модель для таблицы houses
     image = CharField(null=True)
     date = CharField()
     price = CharField()
+    currency = CharField()
 
     class Meta:
         database = db
@@ -18,7 +19,7 @@ class House(Model): # модель для таблицы houses
 def write_to_db(data): # создает таблицу houses и записывает в нее данные
     with db:
         db.create_tables([House])
-        House.create(image=data['image'], date=data['date'], price=data['price'])
+        House.create(image=data['image'], date=data['date'], price=data['price'], currency=data['currency'])
         print('Downloading')
 
 
